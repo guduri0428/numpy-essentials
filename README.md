@@ -1,1 +1,1 @@
-# numpy-essentials to practice and learn
+# numpy-essentials to practice and learn which helps 
